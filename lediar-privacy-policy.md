@@ -1,12 +1,12 @@
 # Política de privacidad de Lediar
 
-*Última actualización: 21 de octubre de 2026*
+*Última actualización: 22 de octubre de 2026*
 
 Lediar es una app para Android que te ayuda a revisar y borrar fotos y vídeos de tu móvil. La desarrolla Luis Morejón ("nosotros").
 
 ## Resumen
 
-**Lediar no recoge, no envía y no comparte ningún dato personal.** La app no tiene permiso de acceso a internet: todo lo que hace ocurre en tu dispositivo y nada sale de él.
+**Lediar no recoge, no envía y no comparte ningún dato personal.** Tus fotos y vídeos se procesan solo en tu dispositivo y nunca salen de él. La única conexión de la app es con Google Play, para gestionar las compras.
 
 ## Qué datos usa la app y para qué
 
@@ -29,12 +29,17 @@ La app guarda localmente, solo en tu dispositivo:
 - Qué meses ya revisaste y dónde te quedaste.
 - Una memoria temporal de lo que conservaste en la sesión actual, que se borra al cerrar la app.
 - Cuánto espacio has liberado con la app.
+- Si has comprado Lediar y cuántas revisiones gratuitas has usado hoy.
 
 Las copias de seguridad están desactivadas para la app, así que estos datos no se suben a tu cuenta de Google.
 
 ## Borrado y edición de archivos
 
 Lediar solo borra, mueve a la papelera, restaura o edita archivos cuando tú lo pides, y siempre a través de la confirmación del sistema Android. Si concedes a la app el permiso opcional de "gestión de multimedia", Android permite hacer estas acciones sin preguntar cada vez. Lo que envías a la papelera se elimina de forma definitiva pasados 7 días.
+
+## Compras
+
+Lediar es gratuita con un límite de revisiones al día. Puedes desbloquearla con un pago único, un pase semanal o un plan mensual. El pase y el plan mensual solo se renuevan automáticamente si tú lo eliges al comprar, y puedes cancelar la renovación en cualquier momento en Google Play. Las compras las gestiona Google Play con tu cuenta de Google: Lediar nunca recibe tus datos de pago. Google Play solo le comunica a la app qué has comprado, para desbloquearla. El tratamiento de esos datos por parte de Google se rige por la Política de Privacidad de Google.
 
 ## Compartir
 
@@ -46,6 +51,7 @@ Si usas el botón de compartir, Android abre su selector y tú eliges la app de 
 |---|---|---|
 | Fotos y vídeos | Mostrar y gestionar tu galería, que es la función principal de la app | Sí |
 | Vibración | Avisos hápticos de confirmación y advertencia | Sí (no requiere aprobación) |
+| Internet y estado de la red | Los incluye la biblioteca de compras de Google Play para comunicarse con Google Play. La app no los usa para nada más | Sí (no requiere aprobación) |
 | Gestión de multimedia | Evitar la confirmación del sistema en cada borrado o restauración | No |
 | Acceso de uso | Desglosar el almacenamiento por categorías | No |
 
@@ -71,13 +77,13 @@ Para cualquier pregunta sobre esta política: lmorejn@gmail.com
 
 # Lediar Privacy Policy
 
-*Last updated: October 21, 2026*
+*Last updated: October 22, 2026*
 
 Lediar is an Android app that helps you review and delete photos and videos on your phone. It is developed by Luis Morejón ("we").
 
 ## Summary
 
-**Lediar does not collect, send or share any personal data.** The app has no internet permission: everything it does happens on your device and nothing leaves it.
+**Lediar does not collect, send or share any personal data.** Your photos and videos are processed only on your device and never leave it. The app's only connection is to Google Play, to handle purchases.
 
 ## What data the app uses and why
 
@@ -100,12 +106,17 @@ The app stores the following locally, on your device only:
 - Which months you have already reviewed and where you left off.
 - A temporary memory of what you kept in the current session, cleared when you close the app.
 - How much space you have freed with the app.
+- Whether you have purchased Lediar and how many free reviews you have used today.
 
 Backups are disabled for the app, so this data is not uploaded to your Google account.
 
 ## Deleting and editing files
 
 Lediar only deletes, trashes, restores or edits files when you ask it to, always through Android's own confirmation. If you grant the app the optional "media management" permission, Android lets it perform these actions without asking each time. Items you move to the trash are permanently deleted after 7 days.
+
+## Purchases
+
+Lediar is free with a daily review limit. You can unlock it with a one-time payment, a week pass or a monthly plan. The pass and the monthly plan only renew automatically if you choose so when buying, and you can cancel the renewal anytime in Google Play. Purchases are handled by Google Play with your Google account: Lediar never receives your payment details. Google Play only tells the app what you bought, so it can unlock it. Google's handling of that data is governed by the Google Privacy Policy.
 
 ## Sharing
 
@@ -117,6 +128,7 @@ If you use the share button, Android opens its share sheet and you choose the de
 |---|---|---|
 | Photos and videos | Show and manage your gallery, the app's core feature | Yes |
 | Vibration | Confirmation and warning haptics | Yes (no approval needed) |
+| Internet and network state | Included by the Google Play purchases library to talk to Google Play. The app uses them for nothing else | Yes (no approval needed) |
 | Media management | Skip the system confirmation on each delete or restore | No |
 | Usage access | Break storage down by category | No |
 
